@@ -6,7 +6,7 @@ A timed quiz on JavaScript fundamentals that stores high scores using local stor
 
 ## Deployed Link
 
-[Code Quiz](https://jkp1990.github.io/Module-6-Challenge-Web-APIs/)   
+[Code Quiz](https://jkp1990.github.io/Module-6-Challenge-Web-APIs/)
 
 ## Screenshot
 
